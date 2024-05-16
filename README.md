@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-satik&show_icons=true&locale=en" alt="omer-satik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer-satik&" alt="omer-satik" /></p>
-
-![snake gif](https://github.com/omer-satik/omer-satik/blob/output/github-contribution-grid-snake.gif)
